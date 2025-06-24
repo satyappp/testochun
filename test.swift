@@ -7,3 +7,7 @@ struct Test {
 struct Test2 {
     var value2: Int
 }
+
+struct Test3 {
+    var value3: Int
+}
