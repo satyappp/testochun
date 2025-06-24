@@ -9,5 +9,5 @@ struct Test2 {
 }
 
 struct Test3 {
-    var value3: Int
+    var value: String
 }
